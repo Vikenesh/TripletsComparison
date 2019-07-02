@@ -1,0 +1,10 @@
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.2\CompareTriplets.deps.json
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.2\CompareTriplets.runtimeconfig.json
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.2\CompareTriplets.runtimeconfig.dev.json
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.2\CompareTriplets.dll
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.2\CompareTriplets.pdb
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.2\CompareTriplets.csproj.CoreCompileInputs.cache
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.2\CompareTriplets.AssemblyInfoInputs.cache
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.2\CompareTriplets.AssemblyInfo.cs
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.2\CompareTriplets.dll
+C:\Users\viki\Documents\GitHub\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.2\CompareTriplets.pdb
